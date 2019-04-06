@@ -76,6 +76,14 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
+  <component name="NodeRendererSettings">
+    <CustomRenderers VERSION="8">
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.rometools.rome.feed.synd.SyndEntryImpl" />
+      </Renderer>
+    </CustomRenderers>
+  </component>
   <component name="XDebuggerSettings">
     <data-views />
     <general />
